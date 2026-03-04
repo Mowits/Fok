@@ -1,0 +1,1 @@
+"""FOK modular assistant package."""

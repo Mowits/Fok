@@ -1,0 +1,7 @@
+# Temel calisma icin zorunlu degil.
+# Opsiyonel paketler:
+# whisper
+# sounddevice
+# numpy
+# opencv-python
+# face_recognition

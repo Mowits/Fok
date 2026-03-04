@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtualenvs
+.venv/
+.venv_whisper/
+.venv_sd/
+.venv_tts/
+
+# Local runtime data
+fok_memory.db
+outputs/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
