@@ -1,5 +1,6 @@
 # FOK Modular (Motor-Free Assistant + Optional Stable Diffusion)
 !Thanks to AzerillaGTAG for conturbuting!
+
 FOK Modular is a Python-based, modular assistant stack focused on:
 - voice wake-word interaction (`fok`/`folk`)
 - reminders and medication routines
