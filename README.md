@@ -120,3 +120,20 @@ Log:
 - Motor control is intentionally out of scope.
 - Stable Diffusion is optional and PC-side.
 - OpenAI support requires `OPENAI_API_KEY`.
+
+## 🧠 Local LLM Support
+
+FOK can run with a **local large language model (LLM)** for full offline intelligence.
+
+You can choose how the assistant works:
+
+- **Offline mode ("cave mode")** – everything runs locally with no internet access.
+- **Online mode** – the assistant can fetch information from the web when needed.
+
+This allows users to choose between **maximum privacy** or **maximum knowledge**.
+
+Features:
+- Works with local LLM backends
+- Optional web access
+- Privacy-friendly design
+- Fully offline capable
